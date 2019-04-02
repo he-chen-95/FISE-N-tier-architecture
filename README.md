@@ -1,6 +1,6 @@
 # FISE3-INFO6-Architecture n-tiers
 
-## a meeting arrangemnt web page 
+## A meeting arrangemnt web application.
 ## HTML, CSS, JS(Jquery), PHP, Apach Server, MySQL, Google Map API.
 
 ### Features and its description
