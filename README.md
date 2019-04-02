@@ -1,7 +1,10 @@
 # FISE3-INFO6-Architecture n-tiers
 
-### A meeting arrangemnt web application.
+### A meeting arrangement web application.
 ### HTML, CSS, JS(Jquery), PHP, Apach Server, MySQL, Google Map API.
+
+You could find the project description here:
+* [**Project Description**](./docs/Sujet%20TD%20Architecture%202018-2019.pdf)
 
 ### Features and its description
 * select tag - click the select tag to see the existed meeting of mySQL database.
