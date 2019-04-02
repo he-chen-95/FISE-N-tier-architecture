@@ -3,7 +3,7 @@
 ## a meeting arrangemnt web page 
 ## HTML, CSS, JS(Jquery), PHP, Apach Server, MySQL, Google Map API.
 
-###Features and its description
+### Features and its description
 * select tag - click the select tag to see the existed meeting of mySQL database.
 * insert button - input necessary information(title, date, address, message) ,then click insert button to creat a meeting.
 * modify button - select a existed meeting by clicking select tag, then modify the title, date, address, message as you want, finally dont forget click the modify botton to validate this operation.
