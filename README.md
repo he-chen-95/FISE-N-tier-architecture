@@ -1,5 +1,7 @@
 # FISE3-INFO6-Architecture n-tiers
-## yi LU, chen HE.
+
+## a meeting arrangemnt web page 
+## HTML, CSS, JS(Jquery), PHP, Apach Server, MySQL, Google Map API.
 
 ###Features and its description
 * select tag - click the select tag to see the existed meeting of mySQL database.
